@@ -1,0 +1,5 @@
+System.Exception: Der Port 82 wird bereits verwendet. 
+Wählen Sie bitte einen anderen.
+  at Quadsoft.Web.WebServer.set_Port (Int32 value) [0x00000] in <filename unknown>:0 
+  at LGBS.Module1.Main () [0x00000] in <filename unknown>:0 
+

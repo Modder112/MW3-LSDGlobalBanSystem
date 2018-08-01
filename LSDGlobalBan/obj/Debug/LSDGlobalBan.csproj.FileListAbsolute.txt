@@ -1,0 +1,24 @@
+C:\Users\User\Documents\Visual Studio 2012\Projects\LSDGlobalBan\LSDGlobalBan\obj\Debug\LSDGlobalBan.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2012\Projects\LSDGlobalBan\LSDGlobalBan\bin\Debug\LSDGlobalBan.dll
+C:\Users\User\Documents\Visual Studio 2012\Projects\LSDGlobalBan\LSDGlobalBan\bin\Debug\LSDGlobalBan.pdb
+C:\Users\User\Documents\Visual Studio 2012\Projects\LSDGlobalBan\LSDGlobalBan\bin\Debug\InfinityScript.dll
+C:\Users\User\Documents\Visual Studio 2012\Projects\LSDGlobalBan\LSDGlobalBan\obj\Debug\LSDGlobalBan.dll
+C:\Users\User\Documents\Visual Studio 2012\Projects\LSDGlobalBan\LSDGlobalBan\obj\Debug\LSDGlobalBan.pdb
+C:\Users\User\Documents\Visual Studio 2012\Projects\LSDGlobalBan - Kopie (2)\LSDGlobalBan\bin\Debug\InfinityScript.dll
+C:\Users\User\Documents\Visual Studio 2012\Projects\LSDGlobalBan - Kopie (2)\LSDGlobalBan\obj\Debug\LSDGlobalBan.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2012\Projects\LSDGlobalBan - Kopie (2)\LSDGlobalBan\bin\Debug\LGBS_test.dll
+C:\Users\User\Documents\Visual Studio 2012\Projects\LSDGlobalBan - Kopie (2)\LSDGlobalBan\bin\Debug\LGBS_test.pdb
+C:\Users\User\Documents\Visual Studio 2012\Projects\LSDGlobalBan - Kopie (2)\LSDGlobalBan\obj\Debug\LGBS_test.dll
+C:\Users\User\Documents\Visual Studio 2012\Projects\LSDGlobalBan - Kopie (2)\LSDGlobalBan\obj\Debug\LGBS_test.pdb
+C:\Users\User\Documents\Visual Studio 2012\Projects\LSDGlobalBan - Kopie (2) - Kopie\LSDGlobalBan\bin\Debug\LGBS_test.dll
+C:\Users\User\Documents\Visual Studio 2012\Projects\LSDGlobalBan - Kopie (2) - Kopie\LSDGlobalBan\bin\Debug\LGBS_test.pdb
+C:\Users\User\Documents\Visual Studio 2012\Projects\LSDGlobalBan - Kopie (2) - Kopie\LSDGlobalBan\bin\Debug\InfinityScript.dll
+C:\Users\User\Documents\Visual Studio 2012\Projects\LSDGlobalBan - Kopie (2) - Kopie\LSDGlobalBan\obj\Debug\LSDGlobalBan.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2012\Projects\LSDGlobalBan - Kopie (2) - Kopie\LSDGlobalBan\obj\Debug\LGBS_test.dll
+C:\Users\User\Documents\Visual Studio 2012\Projects\LSDGlobalBan - Kopie (2) - Kopie\LSDGlobalBan\obj\Debug\LGBS_test.pdb
+C:\Users\Agando\Documents\Visual Studio 2012\Projects\LSDGlobalBan - Kopie (2) - Kopie - Kopie\LSDGlobalBan\obj\Debug\LSDGlobalBan.csprojResolveAssemblyReference.cache
+C:\Users\Agando\Documents\Visual Studio 2012\Projects\LSDGlobalBan - Kopie (2) - Kopie - Kopie\LSDGlobalBan\bin\Debug\InfinityScript.dll
+C:\Users\Agando\Documents\Visual Studio 2012\Projects\LSDGlobalBan - Kopie (2) - Kopie - Kopie\LSDGlobalBan\bin\Debug\LGBSTekno.dll
+C:\Users\Agando\Documents\Visual Studio 2012\Projects\LSDGlobalBan - Kopie (2) - Kopie - Kopie\LSDGlobalBan\bin\Debug\LGBSTekno.pdb
+C:\Users\Agando\Documents\Visual Studio 2012\Projects\LSDGlobalBan - Kopie (2) - Kopie - Kopie\LSDGlobalBan\obj\Debug\LGBSTekno.dll
+C:\Users\Agando\Documents\Visual Studio 2012\Projects\LSDGlobalBan - Kopie (2) - Kopie - Kopie\LSDGlobalBan\obj\Debug\LGBSTekno.pdb
